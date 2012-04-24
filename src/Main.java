@@ -7,7 +7,7 @@ import com.programcreek.designpatterns.visitor.City;
 import com.programcreek.designpatterns.visitor.FirstTimeVisitor;
 import com.programcreek.designpatterns.visitor.Visitor;
 
-
+//test entry point 
 public class Main {
 	public static void main(String args[]){
 		StateContext sc = new StateContext();
